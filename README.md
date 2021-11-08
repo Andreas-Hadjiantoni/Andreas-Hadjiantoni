@@ -1,1 +1,1 @@
-This account is my personal portfolio. It contains university courseworks and personal projects. You can take a look at my CV [here](https://github.com/Andreas-Hadjiantoni/Andreas-Hadjiantoni/blob/master/CV.pdf)
+This account is my personal portfolio. It contains university courseworks and personal projects. You can take a look at my CV [here](https://github.com/Andreas-Hadjiantoni/Andreas-Hadjiantoni/blob/master/CV.pdf).
